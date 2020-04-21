@@ -7,6 +7,7 @@ OBJECTIVE:
 Design a Student attendance system to keep track of attendance in mobile devices for easy and proper evaluation of attendance.
 1. Develop and implement an attendance system.
 2. To create an Android mobile application to provide a User Interface to interact with the system.
+
 The attendance system through mobile devices is a very eﬀective tool which can be used to a great extent. The system is portable and can be easily installed and used on any mobile phones supporting Android OS.
 The use of this system can result in a reduction of number of hours spent in feeding the attendance details in the server database. It also provides an interface which is easy to understand by the users and greatly helps in adapting to the use of this system.
 
