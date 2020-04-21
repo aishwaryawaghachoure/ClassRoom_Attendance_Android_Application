@@ -23,5 +23,5 @@ VIEW STUDENTS ACTIVITY:View Present Students
 Description:Faculty may also view the attendance of the present students through out the day on the basis of their year and division
 
 #Software used :
-Android studio
+Android studio and
 Firebase database
