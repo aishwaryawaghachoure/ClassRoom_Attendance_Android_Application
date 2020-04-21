@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="year_array">
+        <item>Year</item>
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+    </string-array>
+
+    <string-array name="div_array">
+        <item>Div</item>
+        <item>DIV 1</item>
+        <item>DIV 2</item>
+        <item>DIV 3</item>
+        <item>DIV 4</item>
+        <item>DIV 5</item>
+    </string-array>
+</resources>

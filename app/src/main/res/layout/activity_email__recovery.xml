@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.attendanceapp.Email_Recovery">
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Enter Your Email Here"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textSize="30dp"/>
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="Email address"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button_e"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recover Password"
+            android:background="#3F51B5"
+            android:textColor="#FFEBEE"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"
+            android:onClick="on_Recover_password"
+            />
+        <Button
+            android:id="@+id/button_e1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:textColor="#FFEBEE"
+            android:background="#D50000"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:onClick="on_Cancel"
+            />
+
+
+    </LinearLayout>
+
+</ScrollView>
